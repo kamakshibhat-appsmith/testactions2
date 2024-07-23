@@ -128,6 +128,8 @@
   "mobileRightColumn": 32,
   "mobileTopRow": 47,
   "needsErrorInfo": false,
+  "originalBottomRow": 75,
+  "originalTopRow": 47,
   "parentColumnSpace": 11.875,
   "parentId": "0",
   "parentRowSpace": 10,
