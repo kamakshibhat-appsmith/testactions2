@@ -1,6 +1,5 @@
 {
   "appIsExample": false,
-  "applicationDetail": {},
   "applicationVersion": 2,
   "collapseInvisibleWidgets": true,
   "color": "#ECECEC",
@@ -10,6 +9,5 @@
       "id": "Page1",
       "isDefault": true
     }
-  ],
-  "unpublishedApplicationDetail": {}
+  ]
 }
